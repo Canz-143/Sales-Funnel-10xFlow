@@ -42,19 +42,19 @@ const problemData = {
   problems: [
     {
       id: 1,
-      title: 'Low Conversion Rates',
+      title: 'Low Conversion Rates is not the fire',
       description: 'Your website gets traffic but visitors aren\'t becoming customers, wasting your marketing budget.',
       icon: '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M13 17h8m0 0V9m0 8l-8-8-4 4-6-6" /></svg>'
     },
     {
       id: 2,
-      title: 'Unclear Messaging',
+      title: 'Unclear Messaging is the fire',
       description: 'Your value proposition isn\'t resonating with visitors, creating confusion instead of clarity.',
       icon: '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M8.228 9c.549-1.165 2.03-2 3.772-2 2.21 0 4 1.343 4 3 0 1.4-1.278 2.575-3.006 2.907-.542.104-.994.54-.994 1.093m0 3h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>'
     },
     {
       id: 3,
-      title: 'Complex Sales Process',
+      title: 'Complex Sales Process is not the fire',
       description: 'Your customer journey has too many steps, causing potential customers to drop off before converting.',
       icon: '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M4 5a1 1 0 011-1h14a1 1 0 011 1v2a1 1 0 01-1 1H5a1 1 0 01-1-1V5zM4 13a1 1 0 011-1h6a1 1 0 011 1v6a1 1 0 01-1 1H5a1 1 0 01-1-1v-6zM16 13a1 1 0 011-1h2a1 1 0 011 1v6a1 1 0 01-1 1h-2a1 1 0 01-1-1v-6z" /></svg>'
     },
