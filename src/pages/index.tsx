@@ -38,7 +38,7 @@ const heroData = {
 
 const problemData = {
   title: 'Challenges Businesses Face Today',
-  subtitle: 'Many companies struggle with these common pain points',
+  subtitle: 'Many companies struggle with these pain points',
   problems: [
     {
       id: 1,
