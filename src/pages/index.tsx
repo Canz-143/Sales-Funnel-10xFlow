@@ -25,15 +25,15 @@ const headerData = {
 };
 
 const heroData = {
-  title: 'Increase Your Conversions with Smart Solutions',
-  subtitle: 'Our proven system helps businesses boost sales and streamline customer acquisition. Join thousands of satisfied companies already seeing results.',
+  title: 'Automate Your Sales for Maximum Growth',
+  subtitle: 'Unlock the power of automation to elevate your sales process and optimize conversions. Join countless businesses transforming their results today.',
   media: {
     type: 'image' as const,
     src: 'https://images.pexels.com/photos/3184306/pexels-photo-3184306.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
     alt: 'Team collaborating on business strategy',
   },
-  ctaLabel: 'Get Started',
-  ctaLink: '#calendly',
+  ctaLabel: 'Start Free Trial',
+  ctaLink: 'https://calendly.com/autopilot-demos/30min',
 };
 
 const problemData = {
