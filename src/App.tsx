@@ -1,6 +1,6 @@
 import React from 'react';
 import { HashRouter as Router, Routes, Route } from 'react-router-dom';
-import HomePage from './pages/AutoPilotSystems.tsx';
+import HomePage from './pages/index.tsx';
 
 function App() {
   return (
