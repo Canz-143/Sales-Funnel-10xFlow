@@ -113,11 +113,11 @@ const SocialProofSection: React.FC<SocialProofSectionProps> = ({
         <div className="mt-16">
           <p className="text-center text-gray-600 mb-8">Trusted by companies worldwide</p>
           <div className="flex flex-wrap justify-center items-center gap-8 md:gap-12 opacity-70">
-            <img src="https://images.pexels.com/photos/11304372/pexels-photo-11304372.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Company logo" className="h-8 grayscale" />
-            <img src="https://images.pexels.com/photos/11304370/pexels-photo-11304370.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Company logo" className="h-8 grayscale" />
-            <img src="https://images.pexels.com/photos/11304375/pexels-photo-11304375.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Company logo" className="h-8 grayscale" />
-            <img src="https://images.pexels.com/photos/11304374/pexels-photo-11304374.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Company logo" className="h-8 grayscale" />
-            <img src="https://images.pexels.com/photos/11304376/pexels-photo-11304376.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Company logo" className="h-8 grayscale" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Company logo" className="h-8 grayscale" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Company logo" className="h-8 grayscale" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="Company logo" className="h-8 grayscale" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Shopify_logo_2018.svg" alt="Company logo" className="h-8 grayscale" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Slack_technologies_logo.svg" alt="Company logo" className="h-8 grayscale" />
           </div>
         </div>
       </div>
